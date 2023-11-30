@@ -16,9 +16,10 @@ def app():
     )    
 
     st.title(day_picked)
+    st.write('Test')
     st.image(
             days[day_picked],
-            width=400, # Manually Adjust the width of the image as per requirement
+            width=300, # Manually Adjust the width of the image as per requirement
         )
     
 if __name__ == '__main__':
