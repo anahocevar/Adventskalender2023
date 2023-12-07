@@ -8,7 +8,8 @@ def app():
             "3 December": "https://i.redd.it/qtf4widt5w771.gif",
             "4 December": "https://jungleroots.wpengine.com/wp-content/uploads/2022/08/ab3a60_1a955129a34441e5bd0492e8fb33617a_mv2.gif",
             "5 December": "https://media1.giphy.com/media/NVu7FsmRTtn2nyRwJr/giphy.gif",
-            "6 December": "https://www.gannett-cdn.com/experiments/usatoday/polar-bears/static/img/surprise-baby-polar-bears-compressed.gif"}
+            "6 December": "https://www.gannett-cdn.com/experiments/usatoday/polar-bears/static/img/surprise-baby-polar-bears-compressed.gif",
+            "7 December": "https://i.imgur.com/I0Uktjg.gif"}
 
     index = len(days) - 1
     day_picked = str(index+1) + " December"
