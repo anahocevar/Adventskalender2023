@@ -11,7 +11,8 @@ def app():
             "6 December": "https://www.gannett-cdn.com/experiments/usatoday/polar-bears/static/img/surprise-baby-polar-bears-compressed.gif",
             "7 December": "https://i.imgur.com/I0Uktjg.gif",
             "8 December": "https://media2.giphy.com/media/Q3cJvgxtBUtqg/giphy.gif?cid=ecf05e47qalrhpvi5m7icbmzsm4fmekxphbx378al6ab8k5b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-            "9 December": "https://i.gifer.com/ENwD.gif"}
+            "9 December": "https://i.gifer.com/ENwD.gif",
+            "10 Decmeber": "https://media.tenor.com/Y7QklzR9M1oAAAAM/snow-dog.gif"}
 
     index = len(days) - 1
     day_picked = str(index+1) + " December"
