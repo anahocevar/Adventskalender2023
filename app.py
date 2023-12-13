@@ -15,7 +15,8 @@ def app():
             "10 December": "https://media.tenor.com/Y7QklzR9M1oAAAAM/snow-dog.gif",
             "11 December": "https://giffiles.alphacoders.com/477/47727.gif",
             "12 December": "https://media4.giphy.com/media/140LiNgM0b5DVe/giphy.gif?cid=ecf05e470da0g2d06n8quhmlkv1knlwef4kw4ig2w5wuwgsp&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-            "13 December": "https://media.tenor.com/9i0ybGpGPoIAAAAC/fox.gif"}
+            "13 December": "https://media.tenor.com/9i0ybGpGPoIAAAAC/fox.gif",
+            "14 December": "https://i.gifer.com/OuBq.gif"}
 
     index = len(days) - 1
     day_picked = str(index+1) + " December"
