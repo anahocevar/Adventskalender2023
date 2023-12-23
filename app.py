@@ -24,7 +24,8 @@ def app():
             "19 December": "https://www.gannett-cdn.com/experiments/usatoday/polar-bears/static/img/baby-polar-bears-with-mom-compressed.gif",
             "20 December": "https://i.redd.it/fpai1w2l1y501.gif",
             "21 December": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhuNzgwM3Y1dmx5aG55Y2VmZ3EzMzYzamFyNzd6MHZlNzM3aDZyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdUpoRv0VAOX8sg/giphy.gif",
-            "22 December": "https://media.tenor.com/Ym6-jqKJ7iYAAAAd/bartiev.gif"}
+            "22 December": "https://media.tenor.com/Ym6-jqKJ7iYAAAAd/bartiev.gif",
+            "23 December": "https://www.rover.com/blog/wp-content/uploads/2015/11/Puppy-playing-in-the-snow-Imgur.gif"}
 
     index = len(days) - 1
     day_picked = str(index+1) + " December"
